@@ -324,7 +324,7 @@ header #nav .navbar ul li a.attractions {
 /* line 55, ../../../components/sass/modules/_nav.scss */
 header #nav .navbar ul li a:hover {
   background-color: #EFC94C;
-  color: #063642;
+  color: red;
 }
 @media (min-width: 0) and (max-width: 650px) {
   /* line 36, ../../../components/sass/modules/_nav.scss */
